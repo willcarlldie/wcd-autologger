@@ -1,0 +1,6 @@
+## Interface: 11304
+## Title: wcd-autologger
+## Author: Carll
+## Version: 1.0
+
+wcd-autologger.lua
